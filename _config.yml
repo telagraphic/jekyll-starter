@@ -1,0 +1,19 @@
+title: Jekyll Starter
+description:
+author:
+
+baseurl: "/"
+permalink: pretty
+
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  sass_dir: ./css
+  style: compressed
+
+exclude: []
